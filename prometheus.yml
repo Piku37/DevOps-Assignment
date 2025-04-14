@@ -1,7 +1,10 @@
 global:
   scrape_interval: 30s
+
 scrape_configs:
   - job_name: 'app'
     metrics_path: '/metrics'
+    scheme: https
     static_configs:
-      - targets: ['https://prometheus-flask-vedant-a9dsccdhcrdxa2c6.centralus-01.azurewebsites.net']
+      - targets:
+          - 'prometheus-flask-vedant-a9dsccdhcrdxa2c6.centralus-01.azurewebsites.net:443'

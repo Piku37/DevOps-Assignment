@@ -28,7 +28,7 @@ REQUEST_LATENCY = Histogram(
 @app.route('/')
 def hello():
     start_time = time.time()  # Start timer
-    response = jsonify(message='Hello, world!')  # Prepare response
+    response = jsonify(message='Hello, Liaplus AI!')  # Prepare response
     REQUEST_COUNT.labels('GET', '/', 200).inc()  # Increment request count
     REQUEST_LATENCY.labels('GET', '/').observe(time.time() - start_time)  # Record latency
     return response
