@@ -1,0 +1,10 @@
+# This file defines how to rotate logs for your LLM app
+./logs/*.out
+./logs/*.err {
+    daily
+    rotate 7
+    compress
+    missingok
+    notifempty
+    copytruncate
+}
