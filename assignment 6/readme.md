@@ -1,4 +1,4 @@
-# 🧠 LLM App Server Management Toolkit
+# Automation & Scripting ( 🧠 LLM App Server Management Toolkit )
 
 A DevOps-ready toolkit to reliably launch, manage, and monitor a Python-based Large Language Model (LLM) application on any Linux server.
 
