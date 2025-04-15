@@ -131,3 +131,6 @@ Once deployment is complete:
 - **Screenshot 9**: *screenshot showing the graphs output.*
  ![project folder structure](screenshots-readme/graph.png)
 
+**Screenshot 10**: *screenshot showing the graphs output.*
+ ![project folder structure](screenshots-readme/target.png)
+
