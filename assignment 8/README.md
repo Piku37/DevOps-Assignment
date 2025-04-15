@@ -36,4 +36,18 @@ kind create cluster
     - Before Monday, it's Sunday (or the previous day of the week).
     - After Monday, it's Tuesday.
     ```
-     
+Screenshot - kubectl working
+
+![Alt text](../screenshots-readme/eight/kubectl.png)
+
+
+Screenshot - logs working
+
+![Alt text](../screenshots-readme/eight/logs.png)
+
+
+Screenshot - ollama working
+
+![Alt text](../screenshots-readme/eight/ollama.png)
+
+
