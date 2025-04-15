@@ -11,7 +11,7 @@ This project deploys a **Flask web application instrumented with Prometheus metr
 
 
 
-![Architecture Diagram](screenshots-readme/architecture-dia-assignment-one-two.png)
+![Architecture Diagram](screenshots-readme/updatedstruct.png)
   
 
 ---
