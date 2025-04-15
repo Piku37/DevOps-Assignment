@@ -57,3 +57,19 @@ az snapshot create \
   --source "/subscriptions/xxx/resourceGroups/myResourceGroup/providers/Microsoft.Compute/disks/myDisk" \
   --name mySnapshot
 ```
+ ## 5. Screenshots of Working
+
+  **Screenshot of backup :**
+
+  ![Alt text](../screenshots-readme/seven/backup.png)
+
+
+**Screenshot of disaster Management:**
+
+  ![Alt text](../screenshots-readme/seven/disaster.png)
+
+  **Screenshot of virtual machine :**
+
+  ![Alt text](../screenshots-readme/seven/vm.png)
+  
+ 
