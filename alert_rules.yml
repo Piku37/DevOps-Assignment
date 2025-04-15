@@ -9,4 +9,3 @@ groups:
         annotations:
           summary: "App is down"
           description: "The app has been unreachable for over 1 minute."
-git
